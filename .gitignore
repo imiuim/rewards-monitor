@@ -1,0 +1,6 @@
+# 数据库与凭证不入库
+*.db
+*.db-journal
+rewards-accounts.json
+*.log
+node_modules/
